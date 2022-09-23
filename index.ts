@@ -28,6 +28,4 @@ function createStore(reducer: StoreReducer, initialState: any) {
 
 
 
-// console.log(store.getState());
-
 export default createStore;
