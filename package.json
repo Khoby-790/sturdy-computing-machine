@@ -1,5 +1,5 @@
 {
-  "name": "@khoby-790/store",
+  "name": "@khoby790/store",
   "version": "1.0.0",
   "main": "./dist/cjs/index.js",
   "module": "./dist/esm/index.js",
